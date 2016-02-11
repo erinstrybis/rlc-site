@@ -8,3 +8,11 @@ title = "about"
 # About
 
 This is the about page.
+
+## History
+
+## Newsletters
+
+## What We Believe
+
+## Stewardship

@@ -4,3 +4,12 @@ title = "life passages"
 
 +++
 
+# Life Passages
+
+## Baptisms
+
+## Funerals
+
+## Communion
+
+## Marriage

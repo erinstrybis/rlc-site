@@ -4,3 +4,12 @@ title = "in the community"
 
 +++
 
+# In the Community
+
+## Sandwich Ministry
+
+## Refugee Family Sponsorship
+
+## Night Ministry Meals
+
+## Pride Parade
