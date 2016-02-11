@@ -1,3 +1,7 @@
+{{ partial "header" }}
+
 {{ range where .Data.Pages "Type" "home"}}
 	{{.Content }}
 {{ end }}
+
+{{ partial "footer" }}
