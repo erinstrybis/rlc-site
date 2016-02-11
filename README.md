@@ -1,3 +1,9 @@
 # RLC Website
 
-TODO: build
+## Build
+
+	huge
+
+## Deploy
+
+	goapp deploy
