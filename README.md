@@ -2,7 +2,7 @@
 
 ## Build
 
-	huge
+	hugo
 
 ## Deploy
 
