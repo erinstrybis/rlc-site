@@ -1,0 +1,3 @@
+[submodule "themes/rlc-theme"]
+	path = themes/rlc-theme
+	url = git@github.com:rlclakeview/rlc-theme.git
