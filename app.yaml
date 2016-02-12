@@ -11,20 +11,24 @@ handlers:
 - url: /$
   static_files: public/index.html
   upload: public/index.html
+  secure: always
 
 # Handle folder urls by serving the index.html page inside.
 - url: /(.*)/$
   static_files: public/\1/index.html
   upload: public/.*/index.html
+  secure: always
 
 - url: /(.*)/?$
   static_files: public/\1/index.html
   upload: public/.*/index.html
+  secure: always
 
 # Handle nearly every other file by just serving it.
 - url: /(.+)
   static_files: public/\1
   upload: public/(.*)
+  secure: always
 
 skip_files: |
   ^(.*/)?(
