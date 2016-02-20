@@ -1,4 +1,5 @@
 /themes
+*.swp
 
 # Hugo default output directory
 /public
