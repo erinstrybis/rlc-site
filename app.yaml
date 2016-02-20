@@ -19,11 +19,11 @@ handlers:
   upload: public/.*/index.html
   secure: always
 
-# Handle nearly every other file by just serving it.
 - url: /(img|js|css)/(.+)
   static_files: public/\1/\2
   upload: public/(.*)
   secure: always
+  expiration: "7d"
 
 - url: /(.*)/?$
   static_files: public/\1/index.html
