@@ -19,16 +19,17 @@ handlers:
   upload: public/.*/index.html
   secure: always
 
+# Handle nearly every other file by just serving it.
+- url: /(img|js|css)/(.+)
+  static_files: public/\1/\2
+  upload: public/(.*)
+  secure: always
+
 - url: /(.*)/?$
   static_files: public/\1/index.html
   upload: public/.*/index.html
   secure: always
 
-# Handle nearly every other file by just serving it.
-- url: /(.+)
-  static_files: public/\1
-  upload: public/(.*)
-  secure: always
 
 skip_files: |
   ^(.*/)?(
