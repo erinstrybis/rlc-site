@@ -7,11 +7,13 @@ title = "Home"
 
 We are a unique and progressive congregation within the [Evangelical Lutheran Church in America](#). Located on the north side of Chicago, we are called by God to invite, include, involve and inspire in Christ.
 
-Our doors and arms are open to all who wish to explore our  relationship with God and what it means for our life in the world.
+Our doors and arms are open to all who wish to explore our relationship with God and what it means for our life in the world.
+
+---
 
 # A Warm Community
 
-Resurrection is a warm community with a storied history and a legacy of widening the circle of the church’s acceptance, from English speaking worshipers in the late nineteenth century to gays and lesbians as early as 1976.
+Resurrection is a warm community with a storied history and a legacy of widening the circle of the church's acceptance, from English speaking worshipers in the late nineteenth century to gays and lesbians as early as 1976.
 
 We have opened our doors to the children of our neighborhood, not only in worship and Sunday School but also in [Resurrection Preschool](/preschool), which has been listed as one of the top ten preschools in Chicago.
 
