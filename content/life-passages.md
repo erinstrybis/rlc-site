@@ -37,5 +37,6 @@ _All are welcome to be married in our church._
 ---
 
 ## Funerals
-Funerals are occasions to gather in mutual support, mourn the recently deceased, celebrate their life and commend them into God's eternal care.  To schedule a funeral, [contact the church office](mailto:office@rlclakeview.com).  
+Funerals are occasions to gather in mutual support, mourn the recently deceased, celebrate their life and commend them into God's eternal care.  To schedule a funeral, [contact the church office](mailto:office@rlclakeview.com).
+
 Resurrection Lutheran Church is blessed by the presence of a columbarium, a final resting place within our sanctuary for the saints among us.
