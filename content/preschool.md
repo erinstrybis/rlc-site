@@ -11,10 +11,10 @@ Our philosophy is simple: as educators, we help each child gain a positive self-
 Begun in 1970 by Resurrection Lutheran Church, Resurrection Preschool & Toddler Program has been offering a high quality education for 2-5 year olds since its inception.  Our play-based, developmentally appropriate program works to build within each child a positive concept of self and others, a sense of competency, and a love of learning in a diverse classroom that welcomes children of all faiths, classes, and races.
 
 ## Our Preschool Program offers
-* An excellent teacher-child ratio – currently 1:6.
-* Small classroom size – we are licensed for up to 24 children in each session.
-* Highly trained staff  – at least one teacher in each session holds a Master's Degree in Early Childhood Education.  Our staff knows the importance of life-long learning and attends in-service workshops, education conferences, and early childhood classes.  We are enthusiastic learners, exploring new theories and practices in early childhood development.
-* A mixed age program – for children 3-5 years old.
+* An excellent teacher-child ratio - currently 1:6.
+* Small classroom size - we are licensed for up to 24 children in each session.
+* Highly trained staff  - at least one teacher in each session holds a Master's Degree in Early Childhood Education.  Our staff knows the importance of life-long learning and attends in-service workshops, education conferences, and early childhood classes.  We are enthusiastic learners, exploring new theories and practices in early childhood development.
+* A mixed age program - for children 3-5 years old.
 * Both morning and afternoon sessions are held four days a week 
 * Monday, Tuesday, Thursday & Friday.
 * Morning session:  9:00 to 11:30 a.m.
