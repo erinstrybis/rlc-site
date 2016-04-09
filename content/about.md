@@ -33,7 +33,7 @@ TODO: list newsletter archives
 ---
 
 ## Stewardship
-God has given us so much, we respond in love and good stewardship of all we have and are. Our Stewardship Team and ministry aims to “help God's people grow in their relationship with Jesus through the use of the time, talents, and finances, God has entrusted to them” (borrowed from Charles R. Lane in Ask, Thank, Tell). We write prayer petitions for weekly worship, identify ways we can serve at RLC and beyond, help members discern how they can live out their faith, and facilitate an annual Stewardship program every Fall. 
+God has given us so much, we respond in love and good stewardship of all we have and are. Our Stewardship Team and ministry aims to "help God's people grow in their relationship with Jesus through the use of the time, talents, and finances, God has entrusted to them" (borrowed from Charles R. Lane in Ask, Thank, Tell). We write prayer petitions for weekly worship, identify ways we can serve at RLC and beyond, help members discern how they can live out their faith, and facilitate an annual Stewardship program every Fall. 
 
 ---
 
