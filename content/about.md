@@ -45,8 +45,3 @@ Late in the 19th Century, Swedish immigrants were moving to Chicago and settling
 
 ### Progressive Leanings
 In 1912, the congregation at Messiah voted to allow female members to vote just as male members, making this move 8 years before the ratification of the 19th Amendment to the U.S. Constitution. In 1976, the Church Council approved the welcome of gays and lesbians into the church community, and Resurrection began hosting meetings for Lutheran gays and lesbians on the North Side. In 1984, we became one of the first Reconciling in Christ congregations through Lutherans Concerned North America. Today, we continue to be a welcoming congregation to the GLBTQ community. 
-
----
-
-## Space
-Resurrection welcomes outside community groups to use our space as available. Current guests include Narcotics Anonymous, Lakeview Toastmasters, and Extraordinary Lutheran Ministries. If your group is looking for space to hold meetings or an event, please contact the church office at [office@rlclakeview.com](mailto:office@rlclakeview.com).
