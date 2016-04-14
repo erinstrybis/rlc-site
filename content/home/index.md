@@ -9,7 +9,7 @@ We are a unique and progressive congregation within the [Evangelical Lutheran Ch
 
 Our doors and arms are open to all who wish to explore our relationship with God and what it means for our life in the world.
 
----
+{{< newsletter >}}
 
 # A Warm Community
 
