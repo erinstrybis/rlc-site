@@ -15,6 +15,6 @@ Resurrection is a part of the Evangelical Lutheran Church in America, a Christia
 
 At Resurrection, you'll find opportunities to study the word [link to Bible studies section] and [serve our local and global neighbors](/in-the-community).
 
-Join us for worship! For service times, [check out out the worship page](/worship).
+Join us for worship! We will worship this Sunday at {{< worship_times >}}.
 
 Have questions about Resurrection? [Contact our pastor](mailto:kfaulstich@rlclakeview.com).
