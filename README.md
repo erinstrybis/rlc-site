@@ -12,15 +12,51 @@ Edit the file `data/worship.toml` and change the `time` property. e.g. `time = "
 
 ### Shortcodes
 
-There are a couple of shortcodes that will insert content into your pages.
+There are a few shortcodes that will insert content into your pages.
+
+#### figure
+
+The `figure` shortcode helps you insert images with (optional) captions and alt-tags onto your page.
+
+##### Usage
+
+`figure` can use the following named parameters:
+
+* src
+* link
+* title
+* caption
+* class
+* attr (attribution)
+* attrlink
+* alt
+
+##### Example
+
+Your images should be stored in `static/img`, so a simple image would be:
+
+    {{< figure src="/img/my_image.jpg" alt="verbal description" >}}
+
+An image with a caption would look like this:
+
+    {{< figure src="/img/my_image.jpg" alt="verbal description" caption="Caption that displays below the image" >}}
+	
+#### worship_times
+
+The `worship_times` shortcode will insert the current worship times into your content (e.g. "8:30 and 10:45 AM"). These times are defined in the `data/worship.toml` file.
+
+##### Example
 
     {{< worship_times >}}
 
-This will insert the current worship times (e.g. 8:30 and 10:45 AM) as set in the configuration above.
+#### newsletter
+
+The `newsletter` shortcode will insert a styled newsletter signup form onto your page.
+
+##### Example
 
     {{< newsletter >}}
 
-This will insert a styled newsletter signup form.
 
 ## Testing
 
