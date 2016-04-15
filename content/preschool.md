@@ -10,6 +10,8 @@ Our philosophy is simple: as educators, we help each child gain a positive self-
 
 Begun in 1970 by Resurrection Lutheran Church, Resurrection Preschool & Toddler Program has been offering a high quality education for 2-5 year olds since its inception.  Our play-based, developmentally appropriate program works to build within each child a positive concept of self and others, a sense of competency, and a love of learning in a diverse classroom that welcomes children of all faiths, classes, and races.
 
+{{< figure src="/img/preschool-staff.jpg" title="Preschool Staff" alt="Preschool Staff" >}}
+
 ## Our Preschool Program offers
 * An excellent teacher-child ratio - currently 1:6.
 * Small classroom size - we are licensed for up to 24 children in each session.
@@ -31,4 +33,4 @@ Begun in 1970 by Resurrection Lutheran Church, Resurrection Preschool & Toddler 
 * The capacity for up to 15 children with one parent or caregiver each.
 
 ## Admissions
-We invite you to discover how Resurrection Preschool & Toddler Program could provide a healthy and engaging learning environment for your child.  For more information, please check out all the parent resources. To arrange a tour of our classroom, please contact the Director.  All of our staff, children, and families will be happy to share more about the Resurrection experience with you and your child!
+We invite you to discover how Resurrection Preschool & Toddler Program could provide a healthy and engaging learning environment for your child.  For more information, please check out all the [parent resources](/preschool/parent-resources). To arrange a tour of our classroom, please contact the Director.  All of our staff, children, and families will be happy to share more about the Resurrection experience with you and your child!
