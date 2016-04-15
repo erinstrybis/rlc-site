@@ -33,4 +33,4 @@ Begun in 1970 by Resurrection Lutheran Church, Resurrection Preschool & Toddler 
 * The capacity for up to 15 children with one parent or caregiver each.
 
 ## Admissions
-We invite you to discover how Resurrection Preschool & Toddler Program could provide a healthy and engaging learning environment for your child.  For more information, please check out all the [parent resources](/preschool/parent-resources). To arrange a tour of our classroom, please contact the Director.  All of our staff, children, and families will be happy to share more about the Resurrection experience with you and your child!
+We invite you to discover how Resurrection Preschool & Toddler Program could provide a healthy and engaging learning environment for your child.  For more information, please check out all the [parent resources](/preschool/parent-resources). To arrange a tour of our classroom, please [contact the Director, Debbie Mytych](mailto:teach773@yahoo.com>).  All of our staff, children, and families will be happy to share more about the Resurrection experience with you and your child!
