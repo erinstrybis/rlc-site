@@ -80,6 +80,7 @@ Open `http://localhost:1313` in your browser.
 3. Download and install [GitHub Desktop](https://desktop.github.com)
 4. Sign in to GitHub Desktop with the login information you created in step 1. You should see the rlc-site repository you cloned earlier.
 5. Go through the walk through on the basics of [GitHub Flow](https://guides.github.com/introduction/flow/)
+6. Download [the latest release of hugo](https://github.com/spf13/hugo/releases)
 
 ## Updating the site
 
