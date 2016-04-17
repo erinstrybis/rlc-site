@@ -71,3 +71,20 @@ Open `http://localhost:1313` in your browser.
 ## Deploy
 
 	goapp deploy
+
+
+## Getting your computer up to speed
+
+1. [Sign up for a free GitHub account](https://github.com/join) and sign in
+2. Navigate to the [rlclakeview/rlc-site](https://github.com/rlclakeview/rlc-site) repository and create a fork by clicking on the Fork button in the top-right corner of the page
+3. Download and install [GitHub Desktop](https://desktop.github.com)
+4. Sign in to GitHub Desktop with the login information you created in step 1. You should see the rlc-site repository you cloned earlier.
+5. Go through the walk through on the basics of [GitHub Flow](https://guides.github.com/introduction/flow/)
+
+## Updating the site
+
+1. Create a feature branch
+2. Make changes
+3. Test your changes
+4. Commit your changes
+5. Create a pull request
