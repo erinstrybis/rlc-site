@@ -1,4 +1,4 @@
-box: michilu/goapp
+box: golang
 build:
     steps:
         - setup-go-workspace
