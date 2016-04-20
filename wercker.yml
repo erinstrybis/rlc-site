@@ -15,9 +15,8 @@ build:
 
         - arjen/hugo-build:
             version: "0.15"
+        - internal/store-container
 deploy:
     steps:
-        - jstrybis/appengine-deploy:
-            version: "1.0.4"
+        - nomkhonwaan/appengine-deploy:
             token: $APP_ENGINE_TOKEN
-            target: public
