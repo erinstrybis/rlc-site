@@ -4,8 +4,9 @@ build:
         - install-packages:
             packages: git
         - script:
-            name: initialize git submodules
+            name: clone theme
             code: |
-                git submodule update --init --recursive
+                cd themes
+                git clone https://github.com/rlclakeview/rlc-theme.git
         - arjen/hugo-build:
             version: "0.15"
