@@ -18,5 +18,6 @@ build:
 deploy:
     steps:
         - jstrybis/appengine-deploy:
-                token: $APP_ENGINE_TOKEN
-                target: public
+            version: "1.0.4"
+            token: $APP_ENGINE_TOKEN
+            target: public
