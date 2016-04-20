@@ -17,5 +17,6 @@ build:
             version: "0.15"
 deploy:
     steps:
-        - nomkhonwaan/appengine-deploy:
+        - jstrybis/appengine-deploy:
                 token: $APP_ENGINE_TOKEN
+                target: public
