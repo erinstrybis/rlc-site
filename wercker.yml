@@ -15,7 +15,6 @@ build:
 
         - arjen/hugo-build:
             version: "0.15"
-        - internal/store-container
 deploy:
     steps:
         - nomkhonwaan/appengine-deploy:
