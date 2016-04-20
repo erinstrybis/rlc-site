@@ -6,6 +6,7 @@ build:
         - script:
             name: clone theme
             code: |
+                mkdir -p themes
                 cd themes
                 git clone https://github.com/rlclakeview/rlc-theme.git
         - arjen/hugo-build:
