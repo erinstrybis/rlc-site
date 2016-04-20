@@ -1,4 +1,4 @@
-box: golang
+box: michilu/goapp
 build:
     steps:
         - setup-go-workspace
@@ -15,3 +15,13 @@ build:
 
         - arjen/hugo-build:
             version: "0.15"
+deploy:
+    box: google/cloud-sdk
+    steps:
+        - appnific/gcr-auth:
+            refresh_token: $GCLOUD_REFRESH_TOKEN
+        - internal/docker-push:
+            username: _token
+            password: $GCR_AUTH_TOKEN
+            repository: gcr.io/rlc-lakeview/test
+            registry: grc.io
