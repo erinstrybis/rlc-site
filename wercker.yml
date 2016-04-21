@@ -15,7 +15,10 @@ build:
 
         - arjen/hugo-build:
             version: "0.15"
+
+        - internal/shell
 deploy:
     steps:
+        - internal/shell
         - nomkhonwaan/appengine-deploy:
             token: $APP_ENGINE_TOKEN
