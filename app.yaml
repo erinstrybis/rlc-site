@@ -8,6 +8,11 @@ handlers:
 
 # Handle the main page by serving the index page.
 # Note the $ to specify the end of the path, since app.yaml does prefix matching.
+- url: /.well-known/acme-challenge/(.*)
+  mime_type: text/plain
+  static_files: well-known/acme-challenge/\1
+  upload: well-known/acme-challenge/.*
+
 - url: /$
   static_files: public/index.html
   upload: public/index.html
