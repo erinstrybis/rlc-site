@@ -1,8 +1,6 @@
-box: golang
+box: python:2.7-slim
 build:
     steps:
-        - setup-go-workspace
-
         - install-packages:
             packages: git
 
@@ -11,13 +9,17 @@ build:
             code: |
                 mkdir -p themes
                 cd themes
-                git clone https://github.com/rlclakeview/rlc-theme.git
+                if [ -d "rlc-theme" ]; then
+                    info "rlc-theme present"
+                else
+                    git clone https://github.com/rlclakeview/rlc-theme.git
+                fi
 
         - arjen/hugo-build:
             version: "0.15"
-    after-steps:
-        - internal/store-container
 deploy:
     steps:
+        - install-packages:
+            packages: curl
         - nomkhonwaan/appengine-deploy:
             token: $APP_ENGINE_TOKEN
