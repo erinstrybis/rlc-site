@@ -6,7 +6,7 @@ type = "preschool"
 
 # Resurrection Preschool & Toddler Program
 
-Our philosophy is simple: as educators, we help each child gain a positive self-concept, a sense of competency, and a love of learning.  Our classroom activities focus on the "whole child", including each child's social, language, cognitive, emotional, and physical development.  We also place emphasis on balancing child-selected activities with teacher-directed activities.
+Our philosophy is simple: as educators, we help each child gain a positive self-concept, a sense of competency, and a love of learning.  Our classroom activities focus on the "whole child," including each child's social, language, cognitive, emotional, and physical development.  We also place emphasis on balancing child-selected activities with teacher-directed activities.
 
 Begun in 1970 by Resurrection Lutheran Church, Resurrection Preschool & Toddler Program has been offering a high quality education for 2-5 year olds since its inception.  Our play-based, developmentally appropriate program works to build within each child a positive concept of self and others, a sense of competency, and a love of learning in a diverse classroom that welcomes children of all faiths, classes, and races.
 

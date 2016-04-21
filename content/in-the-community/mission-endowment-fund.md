@@ -5,7 +5,7 @@ title = "Mission Endowment Fund"
 
 # Mission Endowment Fund
 
-Resurrection Lutheran Church administers funds to a number of organizations and ministries working to serve neighbors locally and globally. Thanks to the generous gifts we received from the estates of Irving Anderson and Frank Thomas, and many others through the years, Resurrection Lutheran Church was able to establish the Mission Endowment Fund ("MEF") in January of 2002.
+Resurrection Lutheran Church administers funds to a number of organizations and ministries working to serve neighbors locally and globally. Thanks to the generous gifts we received from the estates of Irving Anderson and Frank Thomas, and many others through the years, Resurrection Lutheran Church was able to establish the Mission Endowment Fund (MEF) in January of 2002.
 
 This is a fund that exists in perpetuity; its purpose is to secure that future generations will be witnesses to the ministries and gifts of Resurrection Lutheran Church and the ELCA.
 

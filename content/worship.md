@@ -9,6 +9,8 @@ title = "Worship"
 > "Worship the Lord with gladness; come into God's presence with singing."
 > - Psalm 100:2
 
+This Sunday we will worship at {{< worship_times >}}
+
 Worship at Resurrection is lively, blending traditional liturgy with creativity and musical variety. Our service is based on the worship patterns of the earliest Christian church, emphasizing Scripture, sacraments (Baptism and Holy Communion), prayer and song.  
 
 Children are welcome in worship at Resurrection! Their voices and stirring add to the richness of our community's praise.  We encourage families with children to sit near the front where they can see best.  
@@ -30,4 +32,4 @@ Our tracker organ was built by Visser-Rowland of Houston, Texas, in 1986 for Sai
 The Sunday School Program at Resurrection serves pre-school through adolescent students.  From September through May, classes are held each Sunday from 9:45-10:40 a.m.  We have a wonderful team of teachers dedicated to making Sunday School a fun and educational experience.  During Sunday School children enjoy singing, learning, praying, crafting, baking and snacking together.
 
 ## Announcements
-Every week during worship, we learn about ways we can serve here at RLC and in our community. Here's our recent announcements. 
+Every week during worship, we learn about ways we can serve here at RLC and in our community. [Email the office](mailto:office@rlclakeview.com) to submit any announcements or prayer requests.
