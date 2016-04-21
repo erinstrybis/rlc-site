@@ -39,6 +39,7 @@ skip_files: |
   (index\.yaml)|
   (index\.yml)|
   (config\.yaml)|
+  (config\.toml)|
   (#.*#)|
   (.*~)|
   (.*\.py[co])|
@@ -47,11 +48,17 @@ skip_files: |
   (\..*)|
   (manage\.py)|
   (README\.md)|
+  (wercker\.yml)|
   (LICENSE)|
   (content\/.*)|
   (data\/.*)|
   (static\/.*)|
   (layouts\/.*)|
+  (themes\/.*)|
   (\.git\/.*)|
   (\.gitignore)|
+  (_builds\/.*)|
+  (_cache\/.*)|
+  (_projects\/.*)|
+  (_steps\/.*)|
   )$
