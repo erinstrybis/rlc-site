@@ -13,3 +13,8 @@ $RECYCLE.BIN/
 
 # OSX
 .DS_Store
+
+_builds/
+_cache/
+_projects/
+_steps/
