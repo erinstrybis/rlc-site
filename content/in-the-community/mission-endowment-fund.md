@@ -34,6 +34,31 @@ Applications are accepted by the fund's committee in the fall for grants made th
 
 ## Past Mission Grant Recipients
 
+* **2015**
+  * **Holy Family Ministries, Chicago - $2000**  
+    Chaplaincy and school counselor
+  * **Savior Divine Lutheran Church, Palos Hills - $750**  
+    Bus Initiative for elderly and special needs members
+  * **Extraordinary Lutheran Ministries, Chicago - $750**  
+    Proclaim Gathering
+  * **SCUPE (Seminary Consortium for Urban Pastoral Education), Chicago - $1500**  
+    Curriculum Development for Training Pastors and Lay Leaders in Interreligious Relations
+  * **Refugee One, Chicago - $2175**  
+    Refugee Assistance Fund
+  * **The Night Ministry, Chicago - $2000**  
+    The Crib emergency overnight youth shelter
+  * **Lakeview Pantry - $2000**  
+    Food distribution and social services
+  * **ONE Northside - $1000**  
+    Youth Leadership Development Project
+  * **Carlson Community Services, Chicago - $500**  
+    Magic After-School Place
+  * **Still Point Theatre Collective, Chicago - $675**  
+    The Persephone Project, theatre workshops in Chicago-area detention centers including Cook County and Lake County Jails
+  * **Heshima Kenya - $2000**  
+    Empowering Refugee Girls in Kenya
+  * **Chicago Books to Women in Prison - $1350**  
+    The Home State Project
 * **2013**
   * **Lawrence Hall Youth Services - $2,000**  
      Expressive therapies program
