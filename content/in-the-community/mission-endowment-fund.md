@@ -31,3 +31,50 @@ Applications are accepted by the fund's committee in the fall for grants made th
 
 * Apply for a grant (TODO: link grant application)
 * Make a donation to support the Mission Endowment Fund. (TODO: link donation page)
+
+## Past Mission Grant Recipients
+
+* **2013**
+  * **Lawrence Hall Youth Services - $2,000**  
+     Expressive therapies program
+  * **Chicago Books to Women in Prison - $1,500**  
+     To cover postage to clear the backlog of requests for books from women in prison
+  * **Resurrection Preschool - $1,570**  
+     Backyard play space improvements
+  * **Carlson Community Services - $2000**  
+    Magic after School Place (MAP) providing homework support, snack and activities
+  * **Seminary Consortium for Urban Pastoral Education (SCUPE) - $2100**  
+    Center for African American Theological Studies (CAATS) tuition scholarships
+  * **Savior Divine Lutheran Church - $1580**  
+    To provide bus services to the elderly and special needs members to attend their weekly church service and make a stop to get groceries
+  * **Lutheran Campus Ministry - $750**  
+    Expand their efforts to offer a weekly community breakfast
+  * **Refugee One - $1,000**  
+    Strengthen families – senior’s program to assist in adjusting to a new community, often for non- English speaking adults
+  * **Unity Evangelical Lutheran Church - $1,500**  
+    Mission Plan - portion of monthly stipend for Pastor John Roberts
+  * **Resurrection Lutheran Church - $1,000**  
+    Provides a gift at each baptism of a $50 investment in the Mission Investment Fund, introducing children to stewardship and the principles of smart investing while they become involved in the life of the church
+* **2012**
+  * **Carlson Community Services - $1,000**  
+    To assist the Magic After School Place (MAP) in providing academic support to low-income youths
+  * **First Lutheran Church of the Trinity - $1,500**  
+    To create a conductive space at the church for pastor care and counseling
+  * **Heshima Kenya - $500**  
+    To empower refugee girls in Kenya by ensuring their most basic needs are met
+  * **Lutheran Campus Ministry - $600**  
+    To enable them to expand their support of The Night Ministry
+  * **Resurrection After School Program - $2,500**  
+    To provide tuition assistance for low-income families at our church's after-school program
+  * **Resurrection Lutheran Church - $1,000**
+    To provide a gift at each baptism by making a $50 investment in the Mission Investment Fund to introduce children to stewardship and the principles of smart investing while they become involved in the life of the church
+  * **Resurrection Lutheran Church Volunteers - $500**  
+    To support our "Welcoming Isaiah 16" program to resettle refugee families
+  * **Savior Divine Lutheran Church - $1,000**  
+    To provide bus service to the elderly and special needs members to attend their weekly church service
+  * **Seminary Consortium for Urban Pastoral Education - $2,400**  
+    To provide tuition assistance for pastors, lay ministers and seminarians to receive a theological education that has an urban ministry focus to equip church leaders for effective ministry in the black urban church and community
+  * **United by Faith Evangelical Lutheran Church - $1,500**  
+    To develop the church's Haven for Tots Daycare's Creative Arts Program serving low-income families
+  * **West Suburban Senior Services - $1,500**  
+    To provide hot meals for seniors in the Proviso Township area every week day throughout the year
