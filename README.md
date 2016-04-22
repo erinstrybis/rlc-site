@@ -1,5 +1,7 @@
 # RLC Website
 
+[![wercker status](https://app.wercker.com/status/b995a60bd9ed204ce1972656c84199cd/m/master "wercker status")](https://app.wercker.com/project/bykey/b995a60bd9ed204ce1972656c84199cd)
+
 ## Editing
 
 Don't use Microsoft Word to edit the Markdown files. If on Windows, use WordPad or Notepad. If on Mac, use TextEdit.
