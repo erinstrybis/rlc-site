@@ -13,6 +13,17 @@ handlers:
   static_files: well-known/acme-challenge/\1
   upload: well-known/acme-challenge/.*
 
+- url: /(.*\.txt)
+  mime_type: text/plain
+  static_files: public/\1
+  upload: public/(.*\.txt)
+
+- url: /(.*\.xml)
+  mime_type: application/xml
+  static_files: public/\1
+  upload: public/(.*\.xml)
+  expiration: "1h"
+
 - url: /$
   static_files: public/index.html
   upload: public/index.html

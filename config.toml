@@ -2,3 +2,4 @@ baseurl = "http://www.rlclakeview.com"
 languageCode = "en-us"
 title = "Resurrection Lutheran Church - Lakeview Neighborhood of Chicago"
 theme = "rlc-theme"
+disableRobotsTXT = true
