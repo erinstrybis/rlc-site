@@ -13,6 +13,8 @@ This Sunday we will worship at {{< worship_times >}}
 
 Worship at Resurrection is lively, blending traditional liturgy with creativity and musical variety. Our service is based on the worship patterns of the earliest Christian church, emphasizing Scripture, sacraments (Baptism and Holy Communion), prayer and song.  
 
+![RLC Sanctuary](/img/sanctuary.jpg "A view from the pulpit")
+
 Children are welcome in worship at Resurrection! Their voices and stirring add to the richness of our community's praise.  We encourage families with children to sit near the front where they can see best.  
 
 ## What to Expect
@@ -26,7 +28,9 @@ Music at Resurrection Lutheran Church is an integral and cherished part of worsh
 
 Resurrection intentionally seeks to include songs and music from many cultural and ethnic traditions, representing the communion of saints around the globe.  Whether piano or organ, tambourine or clarinet, we praise God through song and sound. 
 
-Our tracker organ was built by Visser-Rowland of Houston, Texas, in 1986 for Saint Timothy Lutheran Church, Houston. It was moved to Chicago and installed here at Resurrection Lutheran Church in April, 2002 by Visser & Associates.
+![RLC organ](/img/organ.jpg)
+
+Our tracker organ was built by Visser-Rowland of Houston, Texas in 1986 for Saint Timothy Lutheran Church, Houston. It was moved to Chicago and installed here at Resurrection Lutheran Church in April, 2002 by Visser & Associates.
 
 ## Sunday School
 The Sunday School Program at Resurrection serves pre-school through adolescent students.  From September through May, classes are held each Sunday from 9:45-10:40 a.m.  We have a wonderful team of teachers dedicated to making Sunday School a fun and educational experience.  During Sunday School children enjoy singing, learning, praying, crafting, baking and snacking together.
