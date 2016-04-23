@@ -4,6 +4,8 @@ title = "Worship"
 
 +++
 
+{{< panorama "/img/panorama.jpg" >}}
+
 # Worship 
 
 > "Worship the Lord with gladness; come into God's presence with singing."
@@ -12,8 +14,6 @@ title = "Worship"
 This Sunday we will worship at {{< worship_times >}}
 
 Worship at Resurrection is lively, blending traditional liturgy with creativity and musical variety. Our service is based on the worship patterns of the earliest Christian church, emphasizing Scripture, sacraments (Baptism and Holy Communion), prayer and song.  
-
-![RLC Sanctuary](/img/sanctuary.jpg "A view from the pulpit")
 
 Children are welcome in worship at Resurrection! Their voices and stirring add to the richness of our community's praise.  We encourage families with children to sit near the front where they can see best.  
 
@@ -27,8 +27,6 @@ What's the good news of Jesus that connects with our lives today? This is the qu
 Music at Resurrection Lutheran Church is an integral and cherished part of worship. Congregational song, through liturgy and hymn singing, forms the greatest part of our music in worship.  Hymns and songs that have been used to praise God and tell the story of salvation combine with contemporary expressions to create a traditional, yet eclectic worship. 
 
 Resurrection intentionally seeks to include songs and music from many cultural and ethnic traditions, representing the communion of saints around the globe.  Whether piano or organ, tambourine or clarinet, we praise God through song and sound. 
-
-![RLC organ](/img/organ.jpg)
 
 Our tracker organ was built by Visser-Rowland of Houston, Texas in 1986 for Saint Timothy Lutheran Church, Houston. It was moved to Chicago and installed here at Resurrection Lutheran Church in April, 2002 by Visser & Associates.
 

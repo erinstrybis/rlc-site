@@ -42,6 +42,16 @@ Your images should be stored in `static/img`, so a simple image would be:
 An image with a caption would look like this:
 
     {{< figure src="/img/my_image.jpg" alt="verbal description" caption="Caption that displays below the image" >}}
+
+#### panorama
+
+The `panorama` shortcode lets you insert a large image into your content (must be 960x300px minimum).
+
+##### Usage
+
+Simply provide the URL to the image to the shortcode:
+
+    {{< panorama "/img/panorama.jpg" >}}
 	
 #### worship_times
 
