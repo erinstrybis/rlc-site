@@ -9,7 +9,7 @@ title = "Parent Resources"
 * Pay Tuition
 * Current month calendar
 * Current year calendar
-* Program Brochuree
+* [Program Brochure](/preschool/resurrection-preschool-brochure-2016-january.pdf)
 * Program Handbook
 * Preschool Program Application
 * Toddler Program Application
