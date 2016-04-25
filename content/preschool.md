@@ -10,7 +10,7 @@ Our philosophy is simple: as educators, we help each child gain a positive self-
 
 Begun in 1970 by Resurrection Lutheran Church, Resurrection Preschool & Toddler Program has been offering a high quality education for 2-5 year olds since its inception.  Our play-based, developmentally appropriate program works to build within each child a positive concept of self and others, a sense of competency, and a love of learning in a diverse classroom that welcomes children of all faiths, classes, and races.
 
-You can [download our current brochure here](/preschool/resurrection-preschool-brochure-2016-january.pdf).
+You can [download our current brochure here](/assets/preschool/resurrection-preschool-brochure-2016-january.pdf).
 
 {{< figure src="/img/preschool-staff.jpg" title="Preschool Staff" alt="Preschool Staff" >}}
 

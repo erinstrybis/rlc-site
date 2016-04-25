@@ -35,11 +35,31 @@ handlers:
   upload: public/.*/index.html
   secure: always
 
-- url: /(img|js|css)/(.+)
-  static_files: public/\1/\2
-  upload: public/(.*)
+- url: /img
+  static_dir: public/img
   secure: always
   expiration: "7d"
+
+- url: /js
+  static_dir: public/js
+  secure: always
+  expiration: "7d"
+
+- url: /css
+  static_dir: public/css
+  secure: always
+  expiration: "7d"
+
+- url: /assets
+  static_dir: public/assets
+  secure: always
+  expiration: "7d"
+
+#- url: /(img|js|css)/(.+)
+#  static_files: public/\1/\2
+#  upload: public/(.*)
+#  secure: always
+#  expiration: "7d"
 
 - url: /(.*)/?$
   static_files: public/\1/index.html
