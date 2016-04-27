@@ -7,7 +7,7 @@ title = "Parent Resources"
 # Parent Resources
 
 * Pay Tuition
-* Current month calendar
+* [May 2016 Calendar](/assets/preschool/calendars/2016-may.pdf)
 * Current year calendar
 * [Program Brochure](/assets/preschool/resurrection-preschool-brochure-2016-january.pdf)
 * Program Handbook
