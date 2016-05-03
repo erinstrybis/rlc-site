@@ -8,7 +8,7 @@ title = "About"
 ## What we believe
 At Resurrection Lutheran Church, we believe that God created the whole world good and loves it deeply. God's limitless love is revealed in Jesus Christ and lived out in the Church, the community shaped by the Holy Spirit. Nourished and guided by scripture, prayer and Christian community, we live, serve and grow together in the power of God's forgiving and renewing grace.
 
-RLC is a member of the Evangelical Lutheran Church in America. For more about we believe, visit [the ELCA website.](http://www.elca.org/Faith/ELCA-Teaching).
+RLC is a member of the Evangelical Lutheran Church in America. For more about we believe, visit [the ELCA website](http://www.elca.org/Faith/ELCA-Teaching).
 
 ---
 
