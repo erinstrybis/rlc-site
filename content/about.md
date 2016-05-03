@@ -28,6 +28,11 @@ Pastor Kelly lives in Edgewater with her husband, Justin. She enjoys spending ti
 ## Newsletters
 Every month we publish a newsletter, The Messenger. We share our joys and concerns, reflection on past events, and look forward to what's coming in the future here at RLC.
 
+### Past Newsletters
+
+{{< messengers >}}
+
+
 {{< newsletter >}}
 
 ---
