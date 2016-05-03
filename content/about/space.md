@@ -6,4 +6,4 @@ title = "Space"
 
 # Space
 
-Resurrection welcomes outside community groups to use our space as available. Current guests include Narcotics Anonymous, Lakeview Toastmasters, and Extraordinary Lutheran Ministries. If your group is looking for space to hold meetings or an event, please contact the church office at [office@rlclakeview.com](mailto:office@rlclakeview.com).
+Resurrection Lutheran Church welcomes community groups to use our space. Our current guests include Narcotics Anonymous, Lakeview Toastmasters and Extraordinary Lutheran Ministries. If your group is looking for space to hold meetings or an event, please contact the [church office](mailto:office@rlclakeview.com).
