@@ -4,6 +4,8 @@ title = "In the Community"
 
 +++
 
+{{< panorama src="/img/pride-2015.jpg" height="400" slope="10" >}}
+
 # In the Community
 
 Inspired by our faith in Christ, we are a church engaged in the community. We serve our neighbors in a variety of ways, whether it's distributing meals to neighbors who are hungry, welcoming and supporting new Americans through [RefugeeOne](http://www.refugeeone.org) or raising funds for the relief and development work of our national church body, the [ELCA](http://www.elca.org).
