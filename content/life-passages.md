@@ -4,6 +4,8 @@ title = "Life Passages"
 
 +++
 
+{{< panorama src="/img/baptism.jpg" height="400" slope="10" >}}
+
 # Life Passages
 
 ## Baptism
