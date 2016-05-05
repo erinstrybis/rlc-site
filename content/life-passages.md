@@ -27,6 +27,8 @@ Confirmation is the Affirmation of Baptism for adolescents who were baptized as 
 
 ---
 
+{{< panorama src="/img/sanctuary-from-back.jpg" height="400" slope="10" >}}
+
 ## Weddings
 Resurrection Lutheran Church provides a beautiful physical setting for weddings, including seating for 180, a 32 ft. aisle, and a parking lot less than 1 block away. 
 
