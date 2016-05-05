@@ -3,6 +3,8 @@ date = "2016-02-11T12:15:38-06:00"
 title = "Education"
 +++
 
+{{< panorama src="/img/kids.jpg" height="400" slope="10" >}}
+
 # Education
 
 ## Children
