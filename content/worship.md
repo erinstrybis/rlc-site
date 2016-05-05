@@ -4,7 +4,7 @@ title = "Worship"
 
 +++
 
-{{< panorama src="/img/panorama.jpg" height="300" slope="10" >}}
+{{< panorama src="/img/sanctuary-front.jpg" height="400" slope="10" >}}
 
 # Worship 
 
