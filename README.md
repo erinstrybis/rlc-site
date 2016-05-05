@@ -45,13 +45,15 @@ An image with a caption would look like this:
 
 #### panorama
 
-The `panorama` shortcode lets you insert a large image into your content (must be 960x300px minimum).
+The `panorama` shortcode lets you insert a large image into your content. Width must be 960px or greater.
+
+More info on how slope is used here: http://voormedia.com/blog/2012/11/responsive-background-images-with-fixed-or-fluid-aspect-ratios
 
 ##### Usage
 
-Simply provide the URL to the image to the shortcode:
+Provide the URL, height and slope of the image:
 
-    {{< panorama "/img/panorama.jpg" >}}
+    {{< panorama src="/img/panorama.jpg" height="300" slope="10" >}}
 	
 #### worship_times
 
