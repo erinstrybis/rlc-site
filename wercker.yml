@@ -16,7 +16,7 @@ build:
                 fi
 
         - arjen/hugo-build:
-            version: "0.15"
+            version: "HEAD" # 0.15 is latest release, but does not support 'int' template function, which is required for 'panorama'
 deploy:
     steps:
         - install-packages:
