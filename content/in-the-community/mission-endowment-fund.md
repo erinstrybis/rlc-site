@@ -27,9 +27,8 @@ The assets of our fund are invested through the ELCA Foundation and the Mission 
 * 25% for RLC Ministries
 * 20% for Ministries to be determined by the MEF Committee
 
-Applications are accepted by the fund's committee in the fall for grants made the following January. Grants typically average $2,000 and are given to a wide variety of organizations and projects.
+Applications are accepted by the fund's committee in the fall for grants made the following January. Grants typically average $2,000 and are given to a wide variety of organizations and projects. For more information, [email the church office](mailto:office@rlclakeview.com).
 
-* Apply for a grant (TODO: link grant application)
 * [Make a donation to support the Mission Endowment Fund](https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=tYgT1GfNxRUldiimjHMvOW9MBpluIFiU5sGXesGT0_xskSODEa-Up5lt373GHnco2evTpo0mld6BrVzd2nG0pwtHUJrrzprYHQf-D17pxnM=&ver=3)
 
 ## Past MEF Grant Recipients
