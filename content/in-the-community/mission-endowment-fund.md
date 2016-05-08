@@ -5,9 +5,9 @@ title = "Mission Endowment Fund"
 
 # Mission Endowment Fund
 
-Resurrection Lutheran Church administers funds to a number of organizations and ministries working to serve neighbors locally and globally. Thanks to the generous gifts we received from the estates of Irving Anderson and Frank Thomas, and many others through the years, RLC established our Mission Endowment Fund (MEF) in January of 2002.
+Resurrection Lutheran Church (RLC) administers funds to a number of organizations and ministries working to serve people locally and globally. Thanks to the generous gifts we received from the estates of Irving Anderson and Frank Thomas, and many others through the years, RLC established our Mission Endowment Fund (MEF) in January of 2002.
 
-This is a fund that exists in perpetuity; its purpose is to secure that future generations will be witnesses to the ministries and gifts of our congregation and the ELCA.
+This is a fund that exists in perpetuity; its purpose is to secure that future generations will be witnesses to the ministries and gifts of our congregation and denomination, the Evangelical Lutheran Church in America (ELCA).
 
 Every member of RLC can contribute to this important fund. Consider making a contribution to the MEF in one or more of the following ways:
 
@@ -29,31 +29,31 @@ The assets of our fund are invested through the ELCA Foundation and the Mission 
 
 Applications are accepted by the fund's committee in the fall for grants made the following January. Grants typically average $2,000 and are given to a wide variety of organizations and projects.
 
-* Apply for a grant (TODO: link grant application)
-* [Make a donation to support the Mission Endowment Fund](https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=tYgT1GfNxRUldiimjHMvOW9MBpluIFiU5sGXesGT0_xskSODEa-Up5lt373GHnco2evTpo0mld6BrVzd2nG0pwtHUJrrzprYHQf-D17pxnM=&ver=3)
+*For grant application information, [contact our office](mailto:office@rlclakeview.com).
+*[Make a donation to support the Mission Endowment Fund](https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=tYgT1GfNxRUldiimjHMvOW9MBpluIFiU5sGXesGT0_xskSODEa-Up5lt373GHnco2evTpo0mld6BrVzd2nG0pwtHUJrrzprYHQf-D17pxnM=&ver=3)
 
-## Past MEF Grant Recipients
+## Past Grant Recipients
 
 * **2015**
-  * **Holy Family Ministries, Chicago - $2,000**  
+  * **Holy Family Ministries - $2,000**  
     Chaplaincy and school counselor
-  * **Savior Divine Lutheran Church, Palos Hills - $750**  
+  * **Savior Divine Lutheran Church - $750**  
     Bus initiative for elderly and special needs members
-  * **Extraordinary Lutheran Ministries, Chicago - $750**  
+  * **Extraordinary Lutheran Ministries - $750**  
     Proclaim gathering
-  * **SCUPE (Seminary Consortium for Urban Pastoral Education), Chicago - $1,500**  
+  * **Seminary Consortium for Urban Pastoral Education (SCUPE) - $1,500**  
     Curriculum development for training pastors and lay leaders in interfaith relations
-  * **Refugee One, Chicago - $2,175**  
+  * **Refugee One - $2,175**  
     Refugee assistance fund
-  * **The Night Ministry, Chicago - $2,000**  
+  * **The Night Ministry - $2,000**  
     The Crib emergency overnight youth shelter
   * **Lakeview Pantry - $2,000**  
     Food distribution and social services
   * **ONE Northside - $1,000**  
     Youth leadership development project
-  * **Carlson Community Services, Chicago - $500**  
+  * **Carlson Community Services - $500**  
     Magic After School Place - homework support, snacks and activities
-  * **Still Point Theatre Collective, Chicago - $675**  
+  * **Still Point Theatre Collective - $675**  
     The Persephone Project, theatre workshops in Chicago-area detention centers including Cook County and Lake County jails
   * **Heshima Kenya - $2,000**  
     Empowering refugee girls in Kenya

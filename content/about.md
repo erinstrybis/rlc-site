@@ -33,7 +33,7 @@ Every week, RLC sends a weekly email update, In Our Community. Every month RLC p
 ---
 
 ## Giving
->“(We) help God's people grow in their relationship with Jesus through the use of the time, talents and finances God has entrusted to them.” 
+>“(We) help God's people grow in their relationship with Jesus through use of the time, talents and finances God has entrusted to them.” 
 >-Charles R. Lane in _Ask, Thank, Tell_
 
 God has given us so much, we respond in love and good stewardship of all we have and are. 
