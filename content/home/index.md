@@ -3,13 +3,11 @@ date = "2016-02-11T12:39:49-06:00"
 title = "Home"
 +++
 
-Welcome! Resurrection Lutheran Church is a warm, caring Christian community in Chicago’s Lakeview neighborhood. 
+Welcome! Resurrection Lutheran Church is a warm, caring Christian community in Chicago’s Lakeview neighborhood. Join us this Sunday for worship at {{< worship_times >}}
 
 Looking for a church home? Our [“I’m New” page](/im-new) offers a brief overview of our congregation.
 
-We are happy to host [baptisms]({{< relref "life-events.md#baptism" >}}), [weddings]({{< relref "life-events.md#weddings" >}}) and other [life events]({{< relref "life-events.md" >}}). 
-
-We also have a [preschool and toddler program](/preschool) for children ages 2 to 5.
+We are happy to host [baptisms]({{< relref "life-events.md#baptism" >}}), [weddings]({{< relref "life-events.md#weddings" >}}) and other [life events]({{< relref "life-events.md" >}}). We also have a [preschool and toddler program](/preschool) for children ages 2 to 5.
 
 Explore our website to learn how you can grow in faith through [worship](/worship), [study](/education) and [service](/in-the-community). 
  
