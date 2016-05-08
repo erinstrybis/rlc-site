@@ -1,4 +1,5 @@
-box: python:2.7-slim
+box: golang:1.6.2 # https://github.com/kr/text/issues/6
+#box: python:2.7-slim
 build:
     steps:
         - install-packages:
@@ -16,7 +17,7 @@ build:
                 fi
 
         - arjen/hugo-build:
-            version: "0.15"
+            version: "HEAD" # 0.15 is latest release, but does not support 'int' template function, which is required for 'panorama'
 deploy:
     steps:
         - install-packages:

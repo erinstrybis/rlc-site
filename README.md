@@ -45,13 +45,15 @@ An image with a caption would look like this:
 
 #### panorama
 
-The `panorama` shortcode lets you insert a large image into your content (must be 960x300px minimum).
+The `panorama` shortcode lets you insert a large image into your content. Width must be 960px or greater.
+
+More info on how slope is used here: http://voormedia.com/blog/2012/11/responsive-background-images-with-fixed-or-fluid-aspect-ratios
 
 ##### Usage
 
-Simply provide the URL to the image to the shortcode:
+Provide the URL, height and slope of the image:
 
-    {{< panorama "/img/panorama.jpg" >}}
+    {{< panorama src="/img/panorama.jpg" height="300" slope="10" >}}
 	
 #### worship_times
 
@@ -87,12 +89,13 @@ Open `http://localhost:1313` in your browser.
 
 ## Getting your computer up to speed
 
-1. [Sign up for a free GitHub account](https://github.com/join) and sign in
+1. [Sign up for a free GitHub account](https://github.com/join). Make sure to verify your account by clicking the link in the email GitHub sends you.
 2. Navigate to the [rlclakeview/rlc-site](https://github.com/rlclakeview/rlc-site) repository and create a fork by clicking on the Fork button in the top-right corner of the page
 3. Download and install [GitHub Desktop](https://desktop.github.com)
-4. Sign in to GitHub Desktop with the login information you created in step 1. You should see the rlc-site repository you cloned earlier.
+4. Sign in to GitHub Desktop with the login information you created in step 1.
 5. Go through the walk through on the basics of [GitHub Flow](https://guides.github.com/introduction/flow/)
-6. Download [the latest release of hugo](https://github.com/spf13/hugo/releases)
+6. Click the `+` button in the to-left, then click "Clone" and you should see the `rlc-site` repository underneath your username.
+7. Download [the latest release of hugo](https://github.com/spf13/hugo/releases)
 
 ## Updating the site
 

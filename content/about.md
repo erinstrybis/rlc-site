@@ -28,6 +28,11 @@ Pastor Kelly lives in the Edgewater neighborhood with her husband Justin. She en
 ## News from RLC
 Every week, RLC sends a weekly email update, In Our Community. Every month RLC publishes a newsletter, The Messenger. We share our joys and concerns, reflect on past events and look forward to upcoming events and opportunities.
 
+### Past Newsletters
+
+{{< messengers >}}
+
+
 {{< newsletter >}}
 
 ---

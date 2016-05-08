@@ -27,7 +27,7 @@ The assets of our fund are invested through the ELCA Foundation and the Mission 
 * 25% for RLC Ministries
 * 20% for Ministries to be determined by the MEF Committee
 
-Applications are accepted by the fund's committee in the fall for grants made the following January. Grants typically average $2,000 and are given to a wide variety of organizations and projects.
+Applications are accepted by the fund's committee in the fall for grants made the following January. Grants typically average $2,000 and are given to a wide variety of organizations and projects. 
 
 *For grant application information, [contact our office](mailto:office@rlclakeview.com).
 *[Make a donation to support the Mission Endowment Fund](https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=tYgT1GfNxRUldiimjHMvOW9MBpluIFiU5sGXesGT0_xskSODEa-Up5lt373GHnco2evTpo0mld6BrVzd2nG0pwtHUJrrzprYHQf-D17pxnM=&ver=3)
@@ -59,6 +59,35 @@ Applications are accepted by the fund's committee in the fall for grants made th
     Empowering refugee girls in Kenya
   * **Chicago Books to Women in Prison - $1,350**  
     The Home State Project
+* **2014**
+  * **Holy Family Ministries - $2,000**  
+    Holy Family School, Chaplain and Counselor 
+  * **Circles and Ciphers - $1,000**  
+    Restorative Justice Program; Community Peace Circle
+  * **The Night Ministry - $500**  
+    The Crib, youth shelter
+  * **Inner-City Computer Stars Foundation (i.c.stars) - $1,000**  
+    IT Development and Training for youth
+  * **Chicago Coaltion for the Homeless - $500**  
+    Youth Futures Mobile Legal Aid Clinic
+  * **Care for Real - $1,000**  
+    Pet pantry for seniorsprogram
+  * **Savior Divine Lutheran Church - $800**  
+    To provide bus services to the elderly and special needs members to attend their weekly church service and make a stop to get groceries
+  * **Lakeview Pantry - $500**  
+    Food distribution and Social Services
+  * **Common Pantry - $1,500**  
+    Common Community, social services
+  * **GoodCity NFP - $1,000**  
+    Social Fellowship Incubator Program, developing website templates for nonprofit organizations
+  * **Chicago Books to Women in Prison - $800**  
+    Journal Program for Women in Prison
+  * **South Loop Campus Ministry - $2,000**  
+    Takin’ it to the Streets/community meal, feeding the homeless
+  * **Heshima Kenya - $700**  
+    Empowering Refugee Girls in Kenya
+  * **Resurrection Lutheran Church - $1,000**  
+    Provides a gift at each baptism of a $50 investment in the Mission Investment Fund, introducing children to stewardship and the principles of smart investing while they become involved in the life of the church
 * **2013**
   * **Lawrence Hall Youth Services - $2,000**  
      Expressive therapies program

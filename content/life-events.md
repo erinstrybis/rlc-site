@@ -1,8 +1,10 @@
 +++
 date = "2016-02-11T14:46:16-06:00"
-title = "Life Events”1
+title = "Life Events"
 
 +++
+
+{{< panorama src="/img/baptism.jpg" height="400" slope="7" >}}
 
 # Life Events
 
@@ -26,6 +28,8 @@ RLC encourages all children to learn about Holy Communion. Our pastor periodical
 Confirmation is the Affirmation of Baptism for adolescents who were baptized as children. Two years of preparation provide youth with an opportunity to explore the basics of the Christian faith alongside peers in a thorough, open and age-appropriate way.  [Contact the church office](mailto:office@rlclakeview.com) to learn more.
 
 ---
+
+{{< panorama src="/img/sanctuary-from-back.jpg" height="400" slope="10" >}}
 
 ## Weddings
 RLC provides a beautiful physical setting for weddings, including seating for 180, a 32 ft. aisle and a parking lot less than 1 block away. 
