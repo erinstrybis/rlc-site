@@ -1,12 +1,12 @@
 +++
 date = "2016-02-11T14:46:16-06:00"
-title = "Life Passages"
+title = "Life Events"
 
 +++
 
 {{< panorama src="/img/baptism.jpg" height="400" slope="7" >}}
 
-# Life Passages
+# Life Events
 
 ## Baptism
 Baptism is new birth as God's children into God's family (the church) and begins in God's unconditional grace and love. We baptize people of all ages and celebrate the sacrament of baptism within the context of Sunday morning worship. 
