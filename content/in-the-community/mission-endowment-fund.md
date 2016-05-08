@@ -35,25 +35,25 @@ Applications are accepted by the fund's committee in the fall for grants made th
 ## Past MEF Grant Recipients
 
 * **2015**
-  * **Holy Family Ministries, Chicago - $2,000**  
+  * **Holy Family Ministries - $2,000**  
     Chaplaincy and school counselor
-  * **Savior Divine Lutheran Church, Palos Hills - $750**  
+  * **Savior Divine Lutheran Church - $750**  
     Bus initiative for elderly and special needs members
-  * **Extraordinary Lutheran Ministries, Chicago - $750**  
+  * **Extraordinary Lutheran Ministries - $750**  
     Proclaim gathering
-  * **SCUPE (Seminary Consortium for Urban Pastoral Education), Chicago - $1,500**  
+  * **SCUPE (Seminary Consortium for Urban Pastoral Education) - $1,500**  
     Curriculum development for training pastors and lay leaders in interfaith relations
-  * **Refugee One, Chicago - $2,175**  
+  * **Refugee One - $2,175**  
     Refugee assistance fund
-  * **The Night Ministry, Chicago - $2,000**  
+  * **The Night Ministry - $2,000**  
     The Crib emergency overnight youth shelter
   * **Lakeview Pantry - $2,000**  
     Food distribution and social services
   * **ONE Northside - $1,000**  
     Youth leadership development project
-  * **Carlson Community Services, Chicago - $500**  
+  * **Carlson Community Services - $500**  
     Magic After School Place - homework support, snacks and activities
-  * **Still Point Theatre Collective, Chicago - $675**  
+  * **Still Point Theatre Collective - $675**  
     The Persephone Project, theatre workshops in Chicago-area detention centers including Cook County and Lake County jails
   * **Heshima Kenya - $2,000**  
     Empowering refugee girls in Kenya
